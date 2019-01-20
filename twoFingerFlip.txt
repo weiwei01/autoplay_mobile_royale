@@ -1,0 +1,16 @@
+adb shell sendevent /dev/input/event7 0001 0330 00000001
+adb shell sendevent /dev/input/event7 0003 0058 00000001
+adb shell sendevent /dev/input/event7 0003 0053 00000290
+adb shell sendevent /dev/input/event7 0003 0054 00000469
+adb shell sendevent /dev/input/event7 0000 0002 00000000
+adb shell sendevent /dev/input/event7 0003 0053 00000490
+adb shell sendevent /dev/input/event7 0003 0054 00000290
+adb shell sendevent /dev/input/event7 0000 0002 00000000
+adb shell sendevent /dev/input/event7 0000 0000 00000000
+adb shell sendevent /dev/input/event7 0003 0053 00000292
+adb shell sendevent /dev/input/event7 0003 0054 00000470
+adb shell sendevent /dev/input/event7 0000 0002 00000000
+adb shell sendevent /dev/input/event7 0003 0053 00000487
+adb shell sendevent /dev/input/event7 0003 0054 00000289
+adb shell sendevent /dev/input/event7 0000 0002 00000000
+adb shell sendevent /dev/input/event7 0000 0000 00000000
